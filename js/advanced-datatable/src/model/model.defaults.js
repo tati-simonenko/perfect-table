@@ -1219,7 +1219,7 @@ DataTable.defaults = {
 	/**
 	 * Define the starting point for data display when using DataTables with
 	 * pagination. Note that this parameter is the number of records, rather than
-	 * the page number, so if you have 10 records per page and want to start on
+	 * the page number, so if you have 10 на странице and want to start on
 	 * the third page, it should be "20".
 	 *  @type int
 	 *  @default 0
